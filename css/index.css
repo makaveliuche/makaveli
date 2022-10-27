@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+    background-color:whitesmoke !important;
+}
+
+.header {
+    width: 150px;
+}
+.messi {
+    background-color: whitesmoke;
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+}
+
+.second {
+    width: 17px;
+    height: 17px;
+    
+}
+
+.section {
+    width: 100%;
+    height: auto;
+    margin-top: 60px;
+   
+}
+
+.brand {
+    font-size: 65px;
+}
+
+.topic {
+    border: none;
+    border-radius: 1rem;
+    background: whitesmoke;
+}
+
+.rona {
+    border-radius: 1rem;
+}
+
+.good {
+    border-radius: 1rem;
+    border: none;
+}
+
+.story {
+    background-image: url(../images/verse-banner.png);
+    width: 10 0%;
+    background-size: cover;
+    height: fit-content;
+    margin-bottom: 50px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.home {
+    height: 320px;
+    width: 100%;
+
+}
+.book {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.band {
+    background-color: rgb(55, 125, 230);
+    height: fit-content;
+    margin-bottom: 50px;
+}
+
+.pure {
+    border: none;
+    border-radius: 1rem;
+}
+
+.booker {
+    width: 95%;
+    height: fit-content;
+}
+
+.wekend {
+    background-color: rgb(254, 255, 255);
+    width: 90%;
+    height: fit-content;
+    border-radius: 1rem;
+}
+
+.big {
+    margin-left: 100px;
+}
+
+.mood {
+    border-bottom: 50px;
+    background-color: rgb(48, 135, 235);
+    width: 150px;
+    height: 6px;
+    border-radius: 1px;
+}
+
+.dating {
+    border-bottom: 50px;
+    height: 40px;
+    background-color: rgb(229, 233, 238);
+    border-radius: 1rem;
+}
+.coward {
+      margin-left: 650px;
+      border: none;
+      border-radius: 1rem;
+      padding: 16px;
+      background: white;
+}
+.firstpart {
+    overflow-x: auto;
+    width: 100%;
+}
+.firstpart::-webkit-scrollbar {
+    height: 0;
+}
+.secondpart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    width: fit-content;
+    height: 24rem;
+}
+.gate {
+    width: 20rem !important;
+    height: 20rem;
+}
+.gate img {
+    object-fit: cover;
+    object-position: center 20%;
+}
+.coman {
+    margin-left: 500px;
+    border: none;
+    background: white;
+    width: 160px;
+    border-radius: 10px;
+}
+.cave {
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    width: 20rem !important;
+    height: 20rem;
+}
+.boy {
+    margin-left: 200px;
+}
+.board {
+    width: 100%;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.wood {
+    background-color: white;
+    border-radius: 1rem;
+    width: 20rem !important;
+    height: 22rem;
+}
+.lenovo {
+    background-color: steelblue;
+    height: fit-content;
+}
